@@ -357,6 +357,9 @@
 *://*.Sunoai.ai/*
 *://*.thetawise.ai/*
 *://*.imagineanything.ai/*
+*://studio.tripo3d.ai/*
+*://pinku.ai/*
+*://www.seaart.ai/*
 
 
 # Sites that have .com domain extension
@@ -688,6 +691,13 @@
 *://*.civitaiarchive.com/*
 *://*.deepwiki.com/*
 *://*.civarchive.com/*
+*://civitai.com/*
+*://*.oreateai.com/*
+*://theresanaiforthat.com/*
+*://stablediffusionweb.com/*
+*://voice-models.com/*
+*://cdn.openai.com/*
+
 
 # Sites that have .art domain extension
 *://*.imagine.art/*
@@ -788,6 +798,8 @@
 *://*.lunai.art/*
 *://*.pictab.art/*
 *://*.aiphotos123.art/*
+*://rule34ai.art/*
+*://pixai.art/*
 
 
 # Sites that have .co domain extension
@@ -807,7 +819,7 @@
 *://*.superreply.co/*
 *://*.hiddendoor.co/*
 *://*.aiartmaster.co/*
-
+*://huggingface.co/*
 
 # Sites that have .net domain extension
 *://*.illusiondiffusion.net/*
@@ -833,7 +845,6 @@
 *://*.bigshadows.net/*
 *://*.eyecandy.net/*
 *://*.jeddahairport.net/*
-
 
 # Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
 *://*.getmerlin.in/*
@@ -998,6 +1009,9 @@
 *://*.sunoai.asia/*
 *://*.diffus.me/*
 *://*.deepwiki.org/*
+*://dubbingai.io/*
+*://www.vocalize.fm/*
+*://sora3.cloud/*
 
 # AI projects hosted on other sites
 *://*.canva.com/ai-art-generator/*
