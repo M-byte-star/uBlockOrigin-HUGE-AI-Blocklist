@@ -360,7 +360,7 @@
 *://studio.tripo3d.ai/*
 *://pinku.ai/*
 *://www.seaart.ai/*
-
+*://iask.ai/*
 
 # Sites that have .com domain extension
 *://*.steelefortress.com/*
@@ -697,7 +697,7 @@
 *://stablediffusionweb.com/*
 *://voice-models.com/*
 *://cdn.openai.com/*
-
+*://quillbot.com/*
 
 # Sites that have .art domain extension
 *://*.imagine.art/*
@@ -820,6 +820,7 @@
 *://*.hiddendoor.co/*
 *://*.aiartmaster.co/*
 *://huggingface.co/*
+*://asksite.co/*
 
 # Sites that have .net domain extension
 *://*.illusiondiffusion.net/*
